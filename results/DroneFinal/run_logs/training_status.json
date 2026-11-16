@@ -1,0 +1,29 @@
+{
+    "RescueDrone": {
+        "checkpoints": [
+            {
+                "steps": 5780,
+                "file_path": "results/DroneFinal/RescueDrone/RescueDrone-5780.onnx",
+                "reward": 2.2685236152480632,
+                "creation_time": 1794840252.387676,
+                "auxillary_file_paths": [
+                    "results/DroneFinal/RescueDrone/RescueDrone-5780.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5780,
+            "file_path": "results/DroneFinal/RescueDrone.onnx",
+            "reward": 2.2685236152480632,
+            "creation_time": 1794840252.387676,
+            "auxillary_file_paths": [
+                "results/DroneFinal/RescueDrone/RescueDrone-5780.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.1"
+    }
+}
